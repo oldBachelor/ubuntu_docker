@@ -1,6 +1,3 @@
-### 安装 Docker 引擎脚本
-
-```bash
 #!/bin/bash
 
 # Remove existing packages
